@@ -1,0 +1,138 @@
+% Pátý rod
+% Copyright (c) 2021 Singularis <singularis@volny.cz>
+%
+% Toto dílo je dílem svobodné kultury; můžete ho šířit a modifikovat pod
+% podmínkami licence Creative Commons Attribution-ShareAlike 4.0 International
+% vydané neziskovou organizací Creative Commons. Text licence je přiložený
+% k tomuto projektu nebo ho můžete najít na webové adrese:
+%
+% https://creativecommons.org/licenses/by-sa/4.0/
+%
+\documentclass[10pt,draft]{article}
+\usepackage[english,czech]{babel}
+\usepackage[xetex,
+    layout=a4paper,inner=1.5cm,outer=1cm,top=2cm,bottom=1.5cm,
+    twoside,
+    layouthoffset=0mm,layoutvoffset=0mm,
+    a4paper
+    ]{geometry}
+\usepackage[xetex,table]{xcolor}  % barevné písmo
+\usepackage{changepage}     % prostředí {adjustwidth}
+%\usepackage{colortbl}       % barevné pozadí prostředí {tabular}
+\usepackage{enumitem}       % nastavení {enumerable} a {itemize}
+\usepackage{etoolbox}       % podmíněný překlad apod.
+\usepackage{fancyhdr}       % formátování záhlaví a zápatí
+\usepackage{fontspec}       % {fontspec} musí být načten až po balíčcích s matematickými symboly!
+\usepackage[bottom]{footmisc}% aby se poznámky pod čarou správně umístily
+\usepackage{ifthen}         %
+\usepackage{longtable}       % vyžadována pro {tabu}
+%\usepackage[xetex]{graphicx}% vkládání obrázků
+%\usepackage{multicol}       % prostředí {multicols} a {multicols*}
+\usepackage{tabu}           % lepší tabulky (prostředí {tabu})
+\usepackage{titlesec}       % formátování nadpisů kapitol
+%\usepackage[titles]{tocloft}% formátování přehledu („obsahu“)
+\usepackage{verbatim}
+
+\newboolean{gm}\setboolean{gm}{true}%
+\newcommand{\ifgmelse}[2]{\ifthenelse{\boolean{gm}}{#1}{#2}}
+
+% {fontspec}:
+    \setmainfont{Latin Modern Roman}\relax%
+    \setsansfont{Latin Modern Sans}\relax%
+    \setmonofont{Latin Modern Mono Light}\relax%
+
+    \definecolor{bila}{gray}{1}
+    \definecolor{cerna}{gray}{0}
+    \definecolor{svetleseda}{gray}{0.9}
+    \definecolor{seda}{gray}{0.5}
+\begin{document}\rmfamily%
+%
+% TITULNÍ STRANA
+%
+%\pagestyle{empty}%
+\begin{center}%
+{\Huge\bfseries PÁTÝ ROD\\}\medskip%
+Návrh podle: Singularis\\%
+Verze: 1.0 (říjen 2021)
+\end{center}%
+\bigskip%
+%
+\section{Úvod (deklarace)}
+
+Pátý rod je umělé rozšíření (nadstavba) českého jazyka,
+jehož cílem je doplnit češtině prostředky pro pohlavně/genderově neutrální
+vyjadřování v hovoru i textu, které bude esteticky a funkčně srovnatelné
+s rodem ženským a rodem mužským životným.
+\ifgmelse{%
+    Pátý rod je vhodný zejména jako alternativa generického maskulina
+    (jež v mnoha kontextech není vnímáno pohlavně/genderově neutrálně
+    -- viz např. slovo „striptér“) a dosud používaných lomítkových tvarů
+    (např. „lingvista/ka“).}
+
+Pátý rod nabízí nové názvy osob (např. „studenx“, „mažorex“, „striptéřix“ či „prostitux“),
+které příponou „-x“ výslovně odmítají vyjádření pohlaví/genderu jmenovaných lidí
+skloňovanou příponou. Nejsou-li takové názvy doplněny jiným prostředkem
+vyjádření pohlaví/genderu, očekává se tím od adresátstva
+uvažování a zacházení abstrahující od pohlaví/genderu, jemuž rod pátý napomáhá
+poskytnutím takových tvarů dalších slovních druhů,
+které nejsou a nemají být stereotypně dávány do souvislosti
+s žádným konkrétním pohlavím/genderem (ani jeho případnou absencí).
+
+Pátý rod je vhodný zejmena tehdy, když pohlaví/gender není znám/o
+nebo je nejednoznačné/ý (jako v případě smíšené skupiny osob).
+Vyjadřuje, že se jedná o osoby, ale současně znamená, že jejich
+pohlaví/gender tím zatím není vyjádřen/o a nemá být domýšlen/o.
+
+Je-li rodem pátým označována fyzická osoba, mělu byste o ní uvažovat způsobem,
+který nebude pro osobu žádného pohlaví/genderu méně patřičný než pro osoby
+jiných pohlaví/genderů, a očekávat pod takovým označením lidskou
+(popř. humanoidní) bytost působící jakýmkoliv pohlavním/genderovým dojmem,
+přitažlivým i odpudivým, jasným i matoucím, konformním i extravagantním,
+vám vlastním i vám cizím,
+typickým i zřídkavým, i takovým, jaký jste dosud v životě nezažilu.
+
+\begin{comment}
+Co chci sdělit:
+
+X* 5R má být esteticky srovnatelný s rodem ž. a m.ž.
+X* je pohlavně/genderově neutrální
+X* je náhradou lomítkových tvarů a generického maskulina
+X* poskytuje mluvnické prostředky, které nejsou a nemají být stereotypně spojeny se žádným konkrétním pohlavím/genderem
+X* nemá vyvolávat dojem určitého pohlaví/genderu
+X* odmítá sdělování p/r/g nazývaných osob mluvnickým rodem či přechylovací příponou
+X* není-li p/g vyjádřen/o jinými prostředky, požaduje 5R pohl/gend. necitlivost; té napomáhají...
+X* 5R je vhodný zejména tehdy, když p/g není znám/o nebo je nejednoznačný/é (např. ve smíšené skupině lidí)
+
+Použití pátého rodu nebrání vyjádření ani popření pohlavnosti/genderovosti
+nazývaných osob jinými prostředky, než je mluvnický rod,
+jako např. vhodně zvolenými přídavnými jmény, ale není příliš vhodné
+pro osoby, které jsou na svoje pohlaví/svůj gender obzvlášť hrdé
+a chtějí ho co nejvíc předvádět ostatním.
+\end{comment}
+
+\subsection{Vztah s českou mluvnicí}
+
+Toto rozšíření nezavádí žádnou změnu existujících pravidel české mluvnice
+ani pravopisu, zavádí však nová slova (zejména podstatná jména a zájmena),
+nové slovotvorné postupy k jejich vytváření a nové tvary existujících slov.
+
+Tato nová slova a nové tvary se řídí především mluvnickými pravidly
+stanovenými tímto rozšířením. \emph{Ve všech případech, které zde nejsou upraveny,
+se však řídí pravidly české mluvnice vyloženými tak, jako by
+nová slova a tvary byly tzv.} \textbf{náhradního rodu}\emph{,
+což je pro tvary čísla jednotného rod mužský životný
+a pro tvary čísla množného rod ženský.}
+
+\ifgmelse{}{Žádný mluvní postředek pátého rodu nevyžaduje použití
+generického maskulina.}
+
+\begin{comment}
+Jiné slovo (např. vlastní jméno) lze považovat za slovo v pátém rodě
+a zacházet s ním tak, jen pokud splňuje všechny následující podmínky:
+%
+\begin{itemize}
+\item označuje osobu (v jednotném čísle musí jít o jednu osobu),
+\item je nesklonné (u vícerodého jména stačí nesklonnost v jednom rodě)
+\item a nemá jednoznačný rod podle české mluvnice (tzn. buď nemá stanoven žádný rod, jako např. anglická jména; nebo je vícerodé).
+\end{itemize}
+\end{comment}
