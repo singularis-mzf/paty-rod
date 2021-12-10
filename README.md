@@ -70,7 +70,7 @@ nikoliv jako její součást.
 Označíte-li osoby pátým rodem, jejich pohlaví/gender můžete stále vyjádřit
 jinými prostředky než rodem, např. „Na ulici stále čtyři studenxe naší
 univerzity (čtyři ženy).“ Pátý rod nebrání vyjádření pohlaví/genderu,
-ale **umožňuje** jejich **nevyjádření**.
+ale *umožňuje jejich nevyjádření*.
 
 **Mohu pátý rod používat jen pro označení osob jednoho určitého pohlaví/genderu?**
 
@@ -109,8 +109,8 @@ výklad a vztahy ve spisovné češtině již existujících slov nebo jazykov�
 
 **Mohu pátý rod používat, když nevěřím v nebinární osoby?**
 
-Pátý rod je genderově neutrální prostředek motivovaný potřebou funkčnější
-náhrady za generické maskulinum. Nesouvisí přímo s požadavky
+Pátý rod je především genderově neutrální prostředek motivovaný potřebou
+funkčnější náhrady za generické maskulinum. Nesouvisí přímo s požadavky
 hnutí LGBTQIA+ a může být použit k jejich podpoře i proti nim.
 
 ## Kritika a obhajoba pátého rodu
@@ -133,7 +133,7 @@ v jazyce dosud nepřítomných významů.
 **„X“ mám spojené se sexem**
 
 Myslím, že to je velmi běžná asociace, ale u většiny českých mluvčí je slabá
-a lze ji snadno překonat intenzivním používáním. „x“ se již v jazyce
+a lze ji snadno překonat intenzivním používáním. „X“ se již v jazyce
 vyskytuje i v mnoha se sexem nesouvisejících významech (Xerxes, sexta,
 kontext, text apod.). Navíc je tato „sexualizovanost“ v rodové koncovce
 v jistém smyslu na místě, protože rodové koncovky v češtině sexualizované
@@ -184,6 +184,16 @@ v češtině, případně je poměrně blízce připomíná, což umožňuje in
 porozumění za předpokladu dobré výchozí znalosti i málo používaných tvarů
 stávajících skloňovacích vzorů. Skutečně umělý jazyk by zdaleka nebyl
 tak intuitivní.
+
+## Poděkování
+
+Děkuji kolektivu *Kvíření jazyka českého* za zájem a podnětné připomínky,
+*Janě Valdrové* za prokázání potřeby hledání funkční náhrady generického maskulina,
+*Michalu Pitoňákovi* za návrh koncovky „-e“
+a (in memoriam) *Vladimíru Šaurovi* za zpracování výkladu české mluvnice,
+z něhož jsem vycházelu.
+Dále děkuji *národu ruskému* za příponu „-yje“
+a *národu finskému* za krásu finštiny.
 
 ## Licence
 
