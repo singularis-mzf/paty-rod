@@ -132,7 +132,7 @@ v jazyce dosud nepřítomných významů.
 
 **„X“ mám spojené se sexem**
 
-Myslím, že to je velmi běžná asociace, ale u většiny českých mluvčí je slabá
+Myslím, že to je velmi běžná asociace, ale u většiny českých mluvčích je slabá
 a lze ji snadno překonat intenzivním používáním. „X“ se již v jazyce
 vyskytuje i v mnoha se sexem nesouvisejících významech (Xerxes, sexta,
 kontext, text apod.). Navíc je tato „sexualizovanost“ v rodové koncovce
@@ -155,7 +155,7 @@ byť s nezvyklými jazykovými prvky.
 
 **Pátý rod je příliš složitý na naučení**
 
-Je pravda, že psaní pátým rodem je složitější, než většina mluvčí očekává.
+Je pravda, že psaní pátým rodem je složitější, než většina mluvčích očekává.
 Jeho složitost vyplývá ze složitosti rodově rozlišených tvarů v češtině
 a projevuje se v ní krása a bohatství slovanského jazyka.
 Není však složitá samoúčelně, ale jen v nezbytné míře, a zkušenosti
