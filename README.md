@@ -42,6 +42,30 @@ Podrobné údaje o autorství zdrojových souborů jsou uvedeny v komentáří
 
 *Singularis*
 
+## Kurz pátého rodu ve formě prezentace
+
+Pro samoučení se a výuku pátého rodu jsem připravilu kurz ve formě prezentace
+(zatím pouze úroveň „začátečnix“):
+
+Ke stažení ve formátu PDF:
+
+* [prezentace kurzu (úroveň začátečnix) ve formátu PDF](https://raw.githubusercontent.com/singularis-mzf/paty-rod/main/kurz/01-zacatecnix.pdf)
+* [pracovní list ve formátu PDF](https://raw.githubusercontent.com/singularis-mzf/paty-rod/main/kurz/01-zacatecnix-praclist.pdf)
+
+Doporučuji si předem vytisknout pracovní list a v průběhu prezentace
+ho vyplnit.
+
+Očekávaná doba ke zvládnutí všech lekcí:
+
+* úroveň začátečnix: 30 minut poprvé, 20 minut v případě opakování
+
+Ke stažení ve formátu LibreOffice (ODP/ODT):
+
+* [prezentace kurzu (úroveň začátečnix) ve formátu ODP](https://raw.githubusercontent.com/singularis-mzf/paty-rod/main/kurz/01-zacatecnix.odp)
+* [pracovní list (úroveň začátečnix) ve formátu ODT](https://raw.githubusercontent.com/singularis-mzf/paty-rod/main/kurz/01-zacatecnix-praclist.odt)
+
+*Úrovně „středně pokročilau“ a „pokročilau“ zatím nejsou zpracovány.*
+
 ## Návod k překladu specifikace jazyka
 
 Potřebné nástroje:
